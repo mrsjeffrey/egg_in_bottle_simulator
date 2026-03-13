@@ -1,0 +1,5 @@
+{
+  "name": "Egg in a Bottle Simulation",
+  "description": "An interactive physics simulation demonstrating atmospheric pressure and gas laws through the classic egg-in-a-bottle experiment.",
+  "requestFramePermissions": []
+}
